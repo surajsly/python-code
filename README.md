@@ -1,2 +1,3 @@
 # python-code
-python codes
+
+THIS IS REPO. CONTAIN ALL MY PYTHON CODE.
